@@ -1,0 +1,229 @@
+ID,Region,Gender,Sexuality,Race,Disabled,Seniority,28,29,report_type,report_category
+#P01,Southeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P02,Southeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P03,Northeast,Woman,Others/I don't know,Non-white,No,Junior,Yes,none,N/A,N/A
+#P04,Northeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P05,Northeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P06,Southeast,Man,LGBTQ+,White,No,Junior,Yes,Homophobic jokes.,1S,Homophobia
+#P07,Northeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P08,Northeast,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P09,Southeast,Man,LGBTQ+,Non-white,No,Mid-level,Yes,Moral harassment against a woman and ableism.,3S,"Ableism, Sexism"
+#P10,Northeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P11,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P12,Others/I don't know,Woman,Heterosexual,Non-white,No,Mid-level,Yes,"The client treated me like his assistant or secretary, even though that was not my role.",1S,Sexism
+#P13,Northeast,Woman,Heterosexual,White,No,Senior,Yes,"A team meeting managed by a Black woman, with comments such as “It looks like samba do criolo doido” and other remarks related to people from the Northeast.",3S,"Sexism, Racism"
+#P14,Northeast,Man,Heterosexual,White,No,Junior,Yes,"In the past, at an organization where I worked, employees from the LGBTQIA+ community were subjected to harassment (mockery and offensive jokes) by the CTO.",3S,Homophobia
+#P15,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P16,Southeast,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P17,Southeast,Man,Heterosexual,White,No,Senior,Yes,none,N/A,N/A
+#P18,Southeast,Man,Heterosexual,White,No,Junior,Yes,none,N/A,N/A
+#P19,Southeast,Man,Heterosexual,Non-white,No,Junior,Yes,none,N/A,N/A
+#P20,Southeast,Others/I don't know,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P21,Northeast,Man,LGBTQ+,White,No,Senior,No,N/A,N/A,N/A
+#P22,South,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P23,Northeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P24,Southeast,Man,Heterosexual,White,No,Junior,Yes,none,N/A,N/A
+#P25,Southeast,Woman,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P26,Others/I don't know,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P27,Southeast,Woman,Others/I don't know,White,No,Senior,Yes,none,N/A,N/A
+#P28,Southeast,Woman,LGBTQ+,White,No,Senior,Yes,none,N/A,N/A
+#P29,Certer-West,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P30,Certer-West,Man,Heterosexual,White,No,Junior,Yes,none,N/A,N/A
+#P31,Others/I don't know,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P32,Southeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P33,Southeast,Man,Heterosexual,Non-white,No,Mid-level,Yes,My former technical lead was never listened to in leadership meetings because she was the only woman.,3S,Sexism
+#P34,Southeast,Man,Heterosexual,White,Yes,Senior,No,N/A,N/A,N/A
+#P35,Southeast,Woman,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P36,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P37,Southeast,Woman,Heterosexual,Non-white,No,Junior,Yes,I had a friend whose project teammates did not allow her to program because she was a woman.,3S,Sexism
+#P38,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P39,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P40,Southeast,Man,LGBTQ+,White,No,Mid-level,No,N/A,N/A,N/A
+#P41,Southeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P42,Southeast,Man,Heterosexual,Others/I don't know,No,Junior,No,N/A,N/A,N/A
+#P43,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P44,Southeast,Woman,LGBTQ+,White,No,Intern,No,N/A,N/A,N/A
+#P45,Southeast,Woman,Others/I don't know,Non-white,No,Intern,No,N/A,N/A,N/A
+#P46,Southeast,Woman,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P47,Southeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P48,Others/I don't know,Woman,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P49,Others/I don't know,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P50,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P51,Southeast,Man,Heterosexual,Non-white,No,Senior,Yes,none,N/A,N/A
+#P52,Southeast,Woman,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P53,Southeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P54,Northeast,Man,LGBTQ+,Non-white,No,Junior,Yes,"I was not allowed to implement a diversity and inclusion study at a company because they believed it was not “my place.” Instead, I had to carry out something I did not agree with. They believed that a study on race and diversity would not be beneficial.",1S,none
+#P55,Southeast,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P56,Northeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P57,Southeast,Others/I don't know,LGBTQ+,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P58,Northeast,Man,LGBTQ+,White,No,Intern,No,N/A,N/A,N/A
+#P59,Others/I don't know,Man,Others/I don't know,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P60,Northeast,Woman,Others/I don't know,Non-white,No,Intern,No,N/A,N/A,N/A
+#P61,Northeast,Woman,LGBTQ+,White,No,Intern,No,N/A,N/A,N/A
+#P62,Southeast,Man,Heterosexual,Non-white,No,Senior,Yes,Sexist behavior from management and some team members.,3S,Sexism
+#P63,Southeast,Woman,LGBTQ+,Non-white,No,Intern,Yes,"A coworker would say he did not like one of my ideas or that something was wrong, and then he would repeat exactly the same thing I had said. This happened all the time.",1S,Sexism
+#P64,Southeast,Woman,LGBTQ+,White,No,Intern,No,N/A,N/A,N/A
+#P65,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P66,Southeast,Woman,Heterosexual,White,No,Intern,Yes,none,N/A,N/A
+#P67,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P68,Southeast,Man,Heterosexual,Non-white,No,Intern,No,N/A,N/A,N/A
+#P69,Southeast,Woman,LGBTQ+,White,No,Intern,Yes,"A coworker and I were sidelined in a project by two men because the code was considered too “difficult.” In the end, the code was written by the two of us, and we received no recognition at all.",1S,Sexism
+#P70,Southeast,Woman,LGBTQ+,White,No,Intern,No,N/A,N/A,N/A
+#P71,Southeast,Man,Heterosexual,White,Yes,Intern,Yes,"In this case, it was not someone from within the company, but rather a group of people who were making comments about another person who apparently had a disability, laughing and mocking them.
+Additionally, this is something that commonly happens, especially when it involves people with some degree of disability. There are always remarks with an invalidating tone and/or pejorative gossip.",3S,Ableism
+#P72,Southeast,Man,Heterosexual,White,No,Junior,Yes,"I have not had many experiences, but the most recurrent one I observe is sexism.",3S,Sexism
+#P73,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P74,Southeast,Woman,Heterosexual,Non-white,No,Mid-level,Yes,A suggested solution being ignored by the developer because it was proposed by a woman. Homophobic comments presented as jokes.,1S,"Homophobia, Sexism"
+#P75,Southeast,Woman,Heterosexual,White,No,Intern,Yes,none,N/A,N/A
+#P76,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P77,Southeast,Woman,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P78,Southeast,Woman,LGBTQ+,White,Others/I don't know,Intern,No,N/A,N/A,N/A
+#P79,Southeast,Others/I don't know,LGBTQ+,Non-white,Yes,Intern,No,N/A,N/A,N/A
+#P80,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P81,Southeast,Woman,Heterosexual,White,No,Senior,Yes,"I believe that leadership positions, predominantly held by white, heterosexual men, show little interest in bringing more diversity into these roles.",1S,Sexism
+#P82,Northeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P83,Southeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P84,Northeast,Others/I don't know,Heterosexual,Non-white,No,Junior,Yes,An employee was criticized for having “gay-looking hair.”,3S,Homophobia
+#P85,Northeast,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P86,Northeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P87,Southeast,Man,Heterosexual,White,No,Intern,Yes,none,N/A,N/A
+#P88,Southeast,Man,Heterosexual,White,No,Intern,Yes,Different treatment toward women by some managers.,3S,Sexism
+#P89,Southeast,Woman,LGBTQ+,White,No,Intern,Yes,Cases of sexism during presentations by a specific mentor.,3S,Sexism
+#P90,Northeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P91,Certer-West,Man,Heterosexual,Non-white,No,Senior,Yes,"I have experienced situations where women at the company I worked for were prevented from leading meetings because leadership considered them incapable. Not only that, they were also prevented from being promoted or from reaching leadership positions themselves.",3S,Sexism
+#P92,Northeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P93,Northeast,Man,Heterosexual,Non-white,No,Mid-level,No,Not hiring or selecting people for a project because of their age.,3S,Ageism
+#P94,Southeast,Woman,Others/I don't know,Non-white,No,Junior,Yes,Pay disparity.,1S,Sexism
+#P95,North,Man,Heterosexual,White,Others/I don't know,Mid-level,No,N/A,N/A,N/A
+#P96,Southeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P97,Northeast,Woman,Others/I don't know,Non-white,No,Senior,No,N/A,N/A,N/A
+#P98,Southeast,Woman,LGBTQ+,Non-white,No,Intern,No,N/A,N/A,N/A
+#P99,Northeast,Man,Heterosexual,White,Yes,Junior,No,N/A,N/A,N/A
+#P100,Northeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P101,South,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P102,Northeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P103,Northeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P104,South,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P105,Southeast,Man,Others/I don't know,White,No,Junior,No,N/A,N/A,N/A
+#P106,Southeast,Man,LGBTQ+,Non-white,No,Junior,No,N/A,N/A,N/A
+#P107,Southeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P108,South,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P109,Certer-West,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P110,Southeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P111,Certer-West,Man,LGBTQ+,Non-white,Yes,Intern,No,N/A,N/A,N/A
+#P112,Southeast,Man,Heterosexual,White,No,Senior,Yes,"People being hired solely because they are Black or women, regardless of their qualifications.",3S,none
+#P113,Southeast,Man,LGBTQ+,White,Yes,Mid-level,Yes,"“Jokes” (i.e., harassment).",1S,Homophobia
+#P114,South,Man,Heterosexual,White,No,Junior,Yes,"At my former company (a digital bank), there were no Black people, LGBTQIA+ individuals, or women among the entire development team.",1S,"Homophobia, Sexism"
+#P115,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P116,Northeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P117,South,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P118,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P119,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P120,South,Man,Heterosexual,Others/I don't know,No,Junior,No,N/A,N/A,N/A
+#P121,South,Man,Heterosexual,White,Yes,Mid-level,Yes,A colleague was promoted because she was a woman.,1S,none
+#P122,Southeast,Man,Heterosexual,White,No,Junior,Yes,none,N/A,N/A
+#P123,Southeast,Woman,Heterosexual,Others/I don't know,No,Mid-level,Yes,"A female colleague joined a company, and shortly after that, a man was hired. She trained him, and later they discussed salaries, at which point she discovered that she earned less than him, even though she knew more about the job tasks.",3S,Sexism
+#P124,Southeast,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P125,Southeast,Woman,Heterosexual,White,No,Mid-level,Yes,"Men were more easily promoted and spared from layoffs because they interacted more socially with one another. Meanwhile, women who were not part of this social circle outside the workplace ended up being targeted for layoffs or had fewer promotion opportunities because they did not participate in these social events (e.g., going to a bar after work).",3S,Sexism
+#P126,South,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P127,Southeast,Man,Heterosexual,Others/I don't know,No,Senior,Yes,none,N/A,N/A
+#P128,Southeast,Man,LGBTQ+,White,No,Junior,No,N/A,N/A,N/A
+#P129,Southeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P130,Others/I don't know,Man,Heterosexual,Non-white,No,Senior,Yes,none,N/A,N/A
+#P131,Southeast,Man,Others/I don't know,Non-white,No,Junior,No,N/A,N/A,N/A
+#P132,Northeast,Woman,Heterosexual,White,No,Senior,Yes,"Women earning less than men for the same position.
+100% of the company’s strategic leadership being composed of white men.
+Elitism by large companies when scheduling events only in person in São Paulo/SP, without an online option.
+Elitism by large companies in not hiring and/or not promoting people who do not live in São Paulo/SP, even though the home office policy worked well for more than a year during the pandemic.",1S,"Sexism, Xenophobia., Racism"
+#P133,Southeast,Man,Heterosexual,Non-white,No,Mid-level,Yes,"I have seen people avoid the only female developer on the team, avoiding swearing in front of her or speaking freely in general. It made me feel quite uncomfortable.",3S,Sexism
+#P134,Northeast,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P135,South,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P136,Southeast,Woman,LGBTQ+,White,Yes,Junior,No,N/A,N/A,N/A
+#P137,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P138,Southeast,Man,LGBTQ+,Non-white,Others/I don't know,Junior,No,N/A,N/A,N/A
+#P139,South,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P140,South,Man,Others/I don't know,Non-white,No,Intern,No,N/A,N/A,N/A
+#P141,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P142,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P143,Southeast,Man,LGBTQ+,White,No,Junior,No,N/A,N/A,N/A
+#P144,Southeast,Man,LGBTQ+,White,No,Mid-level,No,N/A,N/A,N/A
+#P145,Others/I don't know,Man,LGBTQ+,White,No,Junior,No,N/A,N/A,N/A
+#P146,Southeast,Woman,LGBTQ+,White,Yes,Junior,No,N/A,N/A,N/A
+#P147,Southeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P148,South,Woman,LGBTQ+,White,No,Junior,Yes,"I am the only woman on the team, and I have been interrupted in meetings countless times. My technical considerations are also not taken seriously.",1S,Sexism
+#P149,Southeast,Man,Heterosexual,White,No,Senior,Yes,none,N/A,N/A
+#P150,Southeast,Man,Heterosexual,White,No,Mid-level,Yes,"More than once, I have witnessed cases in which women and LGBTQIA+ people had their performance questioned in a more public and pejorative way than usual. I have also seen people with ADHD and autism being dismissed for low performance in processes that were not adapted to them.",3S,"Homophobia, Ableism, Sexism"
+#P151,Northeast,Man,Heterosexual,White,Yes,Junior,Yes,“A coworker was labeled as ‘difficult’ by technical leadership for expressing her difficulties related to the project. She was frequently denied help and guidance.”,3S,Sexism
+#P152,Southeast,Man,Heterosexual,White,No,Junior,Yes,"“An intern once reported being in a meeting with an analyst to present a dashboard.
+
+She said that she suggested an improvement that was ignored by the client, but when it was later explained again by the analyst (a man), it was praised.
+
+I did not witness it myself, but I believe her account.”",3S,Sexism
+#P153,South,Man,Heterosexual,White,No,Senior,Yes,A UI/UX designer at a company I worked for complained that the client did not like him because he was from the Northeast of Brazil.,3S,Xenophobia.
+#P154,Southeast,Woman,LGBTQ+,White,No,Intern,Yes,"On several occasions, some Black interns heard full-time employees speaking negatively about the racial quotas that were included in this year’s recruitment process. In another situation, a full-time employee asked a female intern who worked on the backend to “take a look” at the interface of a low-code application because women supposedly have an “eye for those things.”",3S,"Racism, Sexism, Xenophobia."
+#P155,Southeast,Man,Heterosexual,White,No,Mid-level,Yes,I have seen people not being promoted because they were women.,3S,none
+#P156,South,Man,LGBTQ+,Non-white,No,Senior,Yes,I have seen a person be fired (probably) because they were Black; I have also seen leaders use a homophobic slur (“viadinho”) to offend someone.,1S,"Racism, Homophobia"
+#P157,South,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P158,Certer-West,Man,LGBTQ+,White,No,Junior,No,N/A,N/A,N/A
+#P159,South,Man,Others/I don't know,White,Yes,Junior,No,N/A,N/A,N/A
+#P160,Southeast,Others/I don't know,Others/I don't know,Others/I don't know,No,Senior,No,N/A,N/A,N/A
+#P161,Southeast,Man,Heterosexual,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P162,Southeast,Man,Heterosexual,White,No,Senior,Yes,Sexism. Ageism.,3S,"Ageism, Sexism"
+#P163,Southeast,Woman,Heterosexual,White,No,Mid-level,Yes,I was dismissed from a previous company after discovering that I was autistic (still without a formal diagnosis).,1S,Ableism
+#P164,Southeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P165,Northeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P166,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P167,Northeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P168,Southeast,Man,Heterosexual,White,No,Junior,Yes,none,N/A,N/A
+#P169,South,Man,Heterosexual,White,No,Junior,Yes,"This happens constantly, casually and either directly or indirectly to homosexual and Black people in every company I have worked for.",3S,"Homophobia, Racism"
+#P170,Southeast,Man,Heterosexual,Non-white,No,Senior,Yes,"At the state-owned company, Black and LGBTQIA+ people were discriminated against; regardless of their technical competence, they were always referred to by their skin color or sexual orientation. The company had many employees from the Boomer generation who were prejudiced, and the comments were almost always demeaning.",3S,"Homophobia, Racism"
+#P171,Northeast,Man,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P172,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P173,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P174,Southeast,Man,Heterosexual,White,No,Mid-level,Yes,"Affirmative action positions, which are poor tools.",3S,none
+#P175,South,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P176,Others/I don't know,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P177,South,Woman,LGBTQ+,White,No,Junior,Yes,"A manager made a joke implying that someone had drunk too much at the company party, which was not true, and this comment was directed only at a woman on the team. The men who also attended the party and drank did not hear any such remarks.",3S,Sexism
+#P178,Southeast,Man,Heterosexual,Non-white,No,Senior,Yes,"A person is belittled, not listened to, or disregarded.",3S,"Homophobia, Racism"
+#P179,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P180,Northeast,Man,LGBTQ+,Non-white,No,Senior,Yes,Discrimination for being from the Northeast of Brazil.,1S,Xenophobia.
+#P181,South,Man,Heterosexual,White,No,Senior,Yes,"A homosexual person has their competence questioned for being in a management position, with the implication that they are in that role because they belong to a minority rather than because of their professional competence.",3S,Homophobia
+#P182,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P183,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P184,South,Woman,LGBTQ+,White,No,Junior,Yes,My manager (a woman) excluded women from team events. She made a point of constantly belittling our work and only showed appreciation for men.,3S,Sexism
+#P185,Southeast,Man,Heterosexual,White,No,Junior,Yes,"When it was necessary to identify someone, I have seen people being referred to in a discriminatory way, such as by calling them “Black,” “old,” or “gay.”",3S,"Homophobia, Ageism, Racism"
+#P186,Southeast,Man,Heterosexual,Non-white,No,Mid-level,Yes,none,N/A,N/A
+#P187,South,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P188,Northeast,Man,LGBTQ+,Non-white,No,Mid-level,No,N/A,N/A,N/A
+#P189,Southeast,Man,Heterosexual,White,No,Mid-level,Yes,"Yes, at my company a group of Filipino employees created an internal Slack channel to speak badly about Black colleagues. They were terminated.",3S,Racism
+#P190,South,Man,Heterosexual,Non-white,Yes,Senior,No,N/A,N/A,N/A
+#P191,Southeast,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P192,South,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P193,South,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P194,Certer-West,Man,Heterosexual,Non-white,Others/I don't know,Mid-level,Yes,"A Black friend of mine was discriminated against: her ideas and suggestions were ignored, but when they were expressed by another person (a white man), they were praised.",3S,"Racism, Sexism"
+#P195,Southeast,Man,Heterosexual,Non-white,No,Senior,No,N/A,N/A,N/A
+#P196,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P197,Southeast,Woman,LGBTQ+,White,Others/I don't know,Mid-level,Yes,none,N/A,N/A
+#P198,Southeast,Man,Heterosexual,White,No,Senior,No,N/A,N/A,N/A
+#P199,Southeast,Man,Heterosexual,White,No,Junior,Yes,"It was kind of a joke where a group from the marketing team was called “girls,” even though there was a gay man among them. It happened at my previous job.",3S,Homophobia
+#P200,Southeast,Man,Heterosexual,Others/I don't know,No,Senior,No,N/A,N/A,N/A
+#P201,Northeast,Man,Heterosexual,Non-white,No,Intern,No,N/A,N/A,N/A
+#P202,Southeast,Man,Heterosexual,White,Yes,Senior,Yes,A person with visual impairment; we started describing our physical appearance.,3S,none
+#P203,Certer-West,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P204,Southeast,Man,Heterosexual,White,Yes,Senior,Yes,"It is very common for people who are naturally prejudiced to unconsciously perceive neurodivergence. When this happens, the difference in treatment is clear.",3S,Ableism
+#P205,Southeast,Man,Heterosexual,Non-white,No,Mid-level,Yes,LGBT prejudice.,3S,Homophobia
+#P206,Southeast,Woman,Heterosexual,Non-white,No,Junior,No,N/A,N/A,N/A
+#P207,Southeast,Woman,Heterosexual,White,No,Junior,Yes,"Privileges are offered to white people; I do not see Black people in leadership positions, and the company currently hires more white people than Black people. I do not see many people with disabilities, and I believe that those who are present are only there to fill quotas. Regarding age, I have heard that even for internships, being over 30 or 40 is considered too old for the role, disregarding the fact that someone at that age could also learn and even contribute based on their previous experiences. I have also witnessed homophobic comments in every company I have worked for.",3S,"Racism, Homophobia, Ageism, Ableism"
+#P208,Certer-West,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P209,Southeast,Man,LGBTQ+,Non-white,No,Senior,No,N/A,N/A,N/A
+#P210,South,Man,Heterosexual,White,No,Mid-level,Yes,A person with a disability (a stutter) was not included in a meeting due to a perceived lack of communication ability.,3S,Ableism
+#P211,Southeast,Man,LGBTQ+,White,No,Mid-level,No,N/A,N/A,N/A
+#P212,Certer-West,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P213,Northeast,Man,Heterosexual,White,No,Intern,Yes,Sexual harassment.,3S,Sexism
+#P214,South,Man,Heterosexual,White,No,Mid-level,No,N/A,N/A,N/A
+#P215,North,Man,LGBTQ+,White,Yes,Mid-level,Yes,Treating the person as if they were a child.,1S,Ableism
+#P216,South,Man,Heterosexual,White,No,Senior,Yes,"I have witnessed several cases of discrimination against neurodivergent people, LGBTQ+ individuals, and issues related to identity in companies where I worked; it was not a healthy environment.",3S,"Homophobia, Ableism"
+#P217,South,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
+#P218,Southeast,Man,Heterosexual,White,No,Intern,No,N/A,N/A,N/A
+#P219,Southeast,Man,Heterosexual,Non-white,No,Senior,Yes,"Placing professionals without the necessary knowledge into roles solely because they have one of these characteristics, and sadly, the person was not willing to learn or collaborate.",3S,none
+#P220,Southeast,Man,Heterosexual,White,No,Junior,No,N/A,N/A,N/A
