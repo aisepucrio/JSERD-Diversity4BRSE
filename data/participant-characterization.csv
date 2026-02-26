@@ -1,0 +1,221 @@
+ID,Region,Gender,Sexuality,Race,Disabled,Education,Work Model,Seniority,Industry Sector,Company size
+#P01,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Mid-level,Private,Small
+#P02,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Big
+#P03,Northeast,Woman,Others/I don't know,Non-white,No,Undergraduate,Remote,Junior,Non-profit/NGO,Big
+#P04,Northeast,Man,Heterosexual,White,No,Phd,Remote,Mid-level,Private,Big
+#P05,Northeast,Man,Heterosexual,White,No,Masters,Remote,Mid-level,Private,Small
+#P06,Southeast,Man,LGBTQ+,White,No,Phd,Hybrid,Junior,Private,Big
+#P07,Northeast,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Small
+#P08,Northeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Non-profit/NGO,Big
+#P09,Southeast,Man,LGBTQ+,Non-white,No,Masters,On-site,Mid-level,Private,Big
+#P10,Northeast,Man,Heterosexual,Non-white,No,Phd,Remote,Mid-level,Private,Big
+#P11,Southeast,Man,Heterosexual,White,No,Undergraduate,Remote,Junior,Private,Small
+#P12,Others/I don't know,Woman,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Big
+#P13,Northeast,Woman,Heterosexual,White,No,Masters,Hybrid,Senior,Private,Big
+#P14,Northeast,Man,Heterosexual,White,No,Masters,Remote,Junior,Private,Big
+#P15,Southeast,Man,Heterosexual,White,No,Undergraduate,Remote,Junior,Private,Big
+#P16,Southeast,Man,Heterosexual,Non-white,No,Undergraduate,Hybrid,Senior,Private,Big
+#P17,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Senior,Private,Big
+#P18,Southeast,Man,Heterosexual,White,No,Undergraduate,On-site,Junior,Private,Small
+#P19,Southeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Junior,Private,Big
+#P20,Southeast,Others/I don't know,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P21,Northeast,Man,LGBTQ+,White,No,Graduate,Hybrid,Senior,Public,Big
+#P22,South,Man,Heterosexual,White,No,Masters,Remote,Senior,Private,Big
+#P23,Northeast,Man,Heterosexual,White,No,Masters,On-site,Senior,Public,Big
+#P24,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Junior,Non-profit/NGO,Others/I don't know
+#P25,Southeast,Woman,Heterosexual,Non-white,No,Masters,Hybrid,Senior,Private,Big
+#P26,Others/I don't know,Man,Heterosexual,Non-white,No,Phd,Hybrid,Mid-level,Private,Big
+#P27,Southeast,Woman,Others/I don't know,White,No,Graduate,Remote,Senior,Private,Big
+#P28,Southeast,Woman,LGBTQ+,White,No,Graduate,Remote,Senior,Private,Big
+#P29,Certer-West,Man,Heterosexual,White,No,Graduate,On-site,Junior,Public,Big
+#P30,Certer-West,Man,Heterosexual,White,No,Graduate,On-site,Junior,Public,Big
+#P31,Others/I don't know,Man,Heterosexual,White,No,Graduate,Hybrid,Senior,Private,Big
+#P32,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Mid-level,Private,Small
+#P33,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Big
+#P34,Southeast,Man,Heterosexual,White,Yes,Masters,Hybrid,Senior,Private,Small
+#P35,Southeast,Woman,Heterosexual,Non-white,No,Masters,Hybrid,Senior,Private,Small
+#P36,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Junior,Non-profit/NGO,Big
+#P37,Southeast,Woman,Heterosexual,Non-white,No,Undergraduate,Remote,Junior,Private,Small
+#P38,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Junior,Non-profit/NGO,Big
+#P39,Southeast,Man,Heterosexual,White,No,Graduate,On-site,Senior,Private,Small
+#P40,Southeast,Man,LGBTQ+,White,No,Undergraduate,On-site,Mid-level,Private,Small
+#P41,Southeast,Man,Heterosexual,Non-white,No,Undergraduate,Remote,Mid-level,Private,Others/I don't know
+#P42,Southeast,Man,Heterosexual,Others/I don't know,No,Graduate,Remote,Junior,Private,Others/I don't know
+#P43,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Intern,Private,Small
+#P44,Southeast,Woman,LGBTQ+,White,No,Undergraduate,Hybrid,Intern,Private,Small
+#P45,Southeast,Woman,Others/I don't know,Non-white,No,Undergraduate,On-site,Intern,Private,Small
+#P46,Southeast,Woman,Heterosexual,Non-white,No,Graduate,On-site,Senior,Private,Small
+#P47,Southeast,Man,Heterosexual,Non-white,No,Undergraduate,Remote,Mid-level,Private,Small
+#P48,Others/I don't know,Woman,Heterosexual,Non-white,No,Masters,Hybrid,Senior,Private,Big
+#P49,Others/I don't know,Man,Heterosexual,White,No,Undergraduate,Remote,Senior,Private,Big
+#P50,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Junior,Private,Big
+#P51,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P52,Southeast,Woman,Heterosexual,White,No,Masters,Remote,Junior,Private,Small
+#P53,Southeast,Man,Heterosexual,Non-white,No,Masters,Hybrid,Junior,Public,Big
+#P54,Northeast,Man,LGBTQ+,Non-white,No,Masters,Remote,Junior,Private,Big
+#P55,Southeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Senior,Private,Big
+#P56,Northeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Mid-level,Private,Big
+#P57,Southeast,Others/I don't know,LGBTQ+,Non-white,No,Masters,Remote,Mid-level,Private,Big
+#P58,Northeast,Man,LGBTQ+,White,No,Undergraduate,Remote,Intern,Private,Small
+#P59,Others/I don't know,Man,Others/I don't know,Non-white,No,Undergraduate,On-site,Mid-level,Private,Big
+#P60,Northeast,Woman,Others/I don't know,Non-white,No,Undergraduate,Hybrid,Intern,Non-profit/NGO,Small
+#P61,Northeast,Woman,LGBTQ+,White,No,Undergraduate,Hybrid,Intern,Non-profit/NGO,Small
+#P62,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P63,Southeast,Woman,LGBTQ+,Non-white,No,Undergraduate,Hybrid,Intern,Non-profit/NGO,Big
+#P64,Southeast,Woman,LGBTQ+,White,No,Undergraduate,On-site,Intern,Private,Big
+#P65,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Intern,Public,Big
+#P66,Southeast,Woman,Heterosexual,White,No,Undergraduate,Hybrid,Intern,Private,Small
+#P67,Southeast,Man,Heterosexual,White,No,Undergraduate,On-site,Intern,Private,Small
+#P68,Southeast,Man,Heterosexual,Non-white,No,Graduate,On-site,Intern,Non-profit/NGO,Small
+#P69,Southeast,Woman,LGBTQ+,White,No,Undergraduate,On-site,Intern,Private,Small
+#P70,Southeast,Woman,LGBTQ+,White,No,Undergraduate,On-site,Intern,Private,Big
+#P71,Southeast,Man,Heterosexual,White,Yes,Undergraduate,On-site,Intern,Private,Small
+#P72,Southeast,Man,Heterosexual,White,No,Undergraduate,Remote,Junior,Private,Big
+#P73,Southeast,Man,Heterosexual,White,No,Undergraduate,Remote,Intern,Private,Small
+#P74,Southeast,Woman,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Big
+#P75,Southeast,Woman,Heterosexual,White,No,Undergraduate,Hybrid,Intern,Public,Small
+#P76,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Intern,Private,Others/I don't know
+#P77,Southeast,Woman,Heterosexual,White,No,Undergraduate,Hybrid,Intern,Private,Big
+#P78,Southeast,Woman,LGBTQ+,White,Others/I don't know,Undergraduate,Hybrid,Intern,Non-profit/NGO,Small
+#P79,Southeast,Others/I don't know,LGBTQ+,Non-white,Yes,Undergraduate,Remote,Intern,Private,Small
+#P80,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Junior,Private,Small
+#P81,Southeast,Woman,Heterosexual,White,No,Phd,Hybrid,Senior,Non-profit/NGO,Big
+#P82,Northeast,Man,Heterosexual,White,No,Masters,Remote,Junior,Private,Big
+#P83,Southeast,Man,Heterosexual,Non-white,No,Undergraduate,Hybrid,Junior,Non-profit/NGO,Small
+#P84,Northeast,Others/I don't know,Heterosexual,Non-white,No,Graduate,On-site,Junior,Public,Small
+#P85,Northeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P86,Northeast,Man,Heterosexual,White,No,Graduate,Remote,Mid-level,Private,Big
+#P87,Southeast,Man,Heterosexual,White,No,Undergraduate,On-site,Intern,Non-profit/NGO,Small
+#P88,Southeast,Man,Heterosexual,White,No,Undergraduate,On-site,Intern,Non-profit/NGO,Small
+#P89,Southeast,Woman,LGBTQ+,White,No,Undergraduate,On-site,Intern,Private,Others/I don't know
+#P90,Northeast,Man,Heterosexual,White,No,Masters,Remote,Mid-level,Private,Big
+#P91,Certer-West,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Private,Small
+#P92,Northeast,Man,Heterosexual,White,No,Graduate,Remote,Mid-level,Private,Big
+#P93,Northeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Small
+#P94,Southeast,Woman,Others/I don't know,Non-white,No,Graduate,Hybrid,Junior,Private,Big
+#P95,North,Man,Heterosexual,White,Others/I don't know,Graduate,Remote,Mid-level,Private,Big
+#P96,Southeast,Man,Heterosexual,Non-white,No,Masters,Remote,Mid-level,Private,Small
+#P97,Northeast,Woman,Others/I don't know,Non-white,No,Graduate,Remote,Senior,Private,Small
+#P98,Southeast,Woman,LGBTQ+,Non-white,No,Undergraduate,Remote,Intern,Private,Big
+#P99,Northeast,Man,Heterosexual,White,Yes,Graduate,Hybrid,Junior,Private,Small
+#P100,Northeast,Man,Heterosexual,White,No,Undergraduate,Remote,Junior,Private,Small
+#P101,South,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Big
+#P102,Northeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Junior,Private,Big
+#P103,Northeast,Man,Heterosexual,Non-white,No,Graduate,On-site,Junior,Public,Big
+#P104,South,Man,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Big
+#P105,Southeast,Man,Others/I don't know,White,No,Graduate,Remote,Junior,Private,Small
+#P106,Southeast,Man,LGBTQ+,Non-white,No,Graduate,Remote,Junior,Private,Big
+#P107,Southeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Mid-level,Private,Small
+#P108,South,Man,Heterosexual,White,No,Graduate,Hybrid,Senior,Non-profit/NGO,Big
+#P109,Certer-West,Man,Heterosexual,White,No,Graduate,On-site,Junior,Public,Big
+#P110,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Junior,Private,Big
+#P111,Certer-West,Man,LGBTQ+,Non-white,Yes,Others/I don't know,On-site,Intern,Private,Small
+#P112,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P113,Southeast,Man,LGBTQ+,White,Yes,Graduate,Remote,Mid-level,Private,Small
+#P114,South,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Big
+#P115,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P116,Northeast,Man,Heterosexual,White,No,Masters,Hybrid,Junior,Private,Small
+#P117,South,Man,Heterosexual,White,No,Graduate,Remote,Mid-level,Non-profit/NGO,Big
+#P118,Southeast,Man,Heterosexual,White,No,Masters,On-site,Junior,Private,Big
+#P119,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Small
+#P120,South,Man,Heterosexual,Others/I don't know,No,Graduate,Remote,Junior,Private,Big
+#P121,South,Man,Heterosexual,White,Yes,Graduate,On-site,Mid-level,Public,Big
+#P122,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Junior,Non-profit/NGO,Small
+#P123,Southeast,Woman,Heterosexual,Others/I don't know,No,Graduate,Remote,Mid-level,Private,Big
+#P124,Southeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Senior,Private,Big
+#P125,Southeast,Woman,Heterosexual,White,No,Masters,Remote,Mid-level,Private,Big
+#P126,South,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P127,Southeast,Man,Heterosexual,Others/I don't know,No,Undergraduate,Remote,Senior,Private,Big
+#P128,Southeast,Man,LGBTQ+,White,No,Graduate,Hybrid,Junior,Private,Big
+#P129,Southeast,Man,Heterosexual,White,No,Undergraduate,Remote,Mid-level,Private,Small
+#P130,Others/I don't know,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Senior,Public,Big
+#P131,Southeast,Man,Others/I don't know,Non-white,No,Graduate,Remote,Junior,Private,Small
+#P132,Northeast,Woman,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P133,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Small
+#P134,Northeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P135,South,Man,Heterosexual,White,No,Undergraduate,On-site,Junior,Private,Small
+#P136,Southeast,Woman,LGBTQ+,White,Yes,Graduate,Remote,Junior,Non-profit/NGO,Big
+#P137,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Small
+#P138,Southeast,Man,LGBTQ+,Non-white,Others/I don't know,Others/I don't know,Hybrid,Junior,Private,Big
+#P139,South,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Small
+#P140,South,Man,Others/I don't know,Non-white,No,Undergraduate,On-site,Intern,Private,Big
+#P141,Southeast,Man,Heterosexual,White,No,Graduate,On-site,Junior,Private,Small
+#P142,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Big
+#P143,Southeast,Man,LGBTQ+,White,No,Graduate,Hybrid,Junior,Private,Big
+#P144,Southeast,Man,LGBTQ+,White,No,Undergraduate,Remote,Mid-level,Private,Big
+#P145,Others/I don't know,Man,LGBTQ+,White,No,Graduate,Remote,Junior,Private,Small
+#P146,Southeast,Woman,LGBTQ+,White,Yes,Graduate,Remote,Junior,Private,Small
+#P147,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Junior,Private,Big
+#P148,South,Woman,LGBTQ+,White,No,Graduate,Remote,Junior,Private,Small
+#P149,Southeast,Man,Heterosexual,White,No,Phd,Hybrid,Senior,Public,Big
+#P150,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Mid-level,Private,Small
+#P151,Northeast,Man,Heterosexual,White,Yes,Graduate,Remote,Junior,Private,Big
+#P152,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Junior,Private,Big
+#P153,South,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P154,Southeast,Woman,LGBTQ+,White,No,Undergraduate,Hybrid,Intern,Public,Big
+#P155,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Mid-level,Private,Big
+#P156,South,Man,LGBTQ+,Non-white,No,Graduate,On-site,Senior,Private,Small
+#P157,South,Man,Heterosexual,White,No,Graduate,On-site,Junior,Private,Big
+#P158,Certer-West,Man,LGBTQ+,White,No,Graduate,On-site,Junior,Private,Big
+#P159,South,Man,Others/I don't know,White,Yes,Graduate,Remote,Junior,Private,Big
+#P160,Southeast,Others/I don't know,Others/I don't know,Others/I don't know,No,Graduate,Remote,Senior,Private,Small
+#P161,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Big
+#P162,Southeast,Man,Heterosexual,White,No,Masters,Remote,Senior,Private,Big
+#P163,Southeast,Woman,Heterosexual,White,No,Graduate,Remote,Mid-level,Private,Big
+#P164,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Junior,Public,Big
+#P165,Northeast,Man,Heterosexual,White,No,Graduate,On-site,Junior,Private,Big
+#P166,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P167,Northeast,Man,Heterosexual,Non-white,No,Undergraduate,On-site,Junior,Private,Big
+#P168,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Junior,Private,Big
+#P169,South,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Small
+#P170,Southeast,Man,Heterosexual,Non-white,No,Masters,Hybrid,Senior,Private,Small
+#P171,Northeast,Man,Heterosexual,Non-white,No,Undergraduate,Remote,Junior,Private,Others/I don't know
+#P172,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P173,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P174,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Mid-level,Private,Big
+#P175,South,Man,Heterosexual,White,No,Undergraduate,Hybrid,Senior,Private,Big
+#P176,Others/I don't know,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Senior,Private,Big
+#P177,South,Woman,LGBTQ+,White,No,Graduate,Remote,Junior,Private,Big
+#P178,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P179,Southeast,Man,Heterosexual,White,No,Masters,Remote,Junior,Private,Small
+#P180,Northeast,Man,LGBTQ+,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P181,South,Man,Heterosexual,White,No,Graduate,On-site,Senior,Public,Big
+#P182,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Intern,Public,Big
+#P183,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Senior,Private,Small
+#P184,South,Woman,LGBTQ+,White,No,Graduate,On-site,Junior,Private,Small
+#P185,Southeast,Man,Heterosexual,White,No,Graduate,On-site,Junior,Private,Big
+#P186,Southeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Mid-level,Private,Big
+#P187,South,Man,Heterosexual,White,No,Undergraduate,Remote,Senior,Private,Big
+#P188,Northeast,Man,LGBTQ+,Non-white,No,Graduate,Remote,Mid-level,Private,Big
+#P189,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Mid-level,Private,Big
+#P190,South,Man,Heterosexual,Non-white,Yes,Masters,Remote,Senior,Private,Big
+#P191,Southeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Mid-level,Private,Small
+#P192,South,Man,Heterosexual,White,No,Graduate,On-site,Intern,Private,Big
+#P193,South,Man,Heterosexual,White,No,Graduate,Remote,Mid-level,Private,Small
+#P194,Certer-West,Man,Heterosexual,Non-white,Others/I don't know,Undergraduate,Remote,Mid-level,Private,Big
+#P195,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P196,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Intern,Private,Big
+#P197,Southeast,Woman,LGBTQ+,White,Others/I don't know,Graduate,Remote,Mid-level,Private,Big
+#P198,Southeast,Man,Heterosexual,White,No,Undergraduate,Remote,Senior,Private,Big
+#P199,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Junior,Private,Big
+#P200,Southeast,Man,Heterosexual,Others/I don't know,No,Masters,Hybrid,Senior,Private,Big
+#P201,Northeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Intern,Private,Big
+#P202,Southeast,Man,Heterosexual,White,Yes,Graduate,Remote,Senior,Private,Big
+#P203,Certer-West,Man,Heterosexual,White,No,Graduate,Remote,Junior,Public,Big
+#P204,Southeast,Man,Heterosexual,White,Yes,Graduate,On-site,Senior,Private,Big
+#P205,Southeast,Man,Heterosexual,Non-white,No,Graduate,Remote,Mid-level,Private,Small
+#P206,Southeast,Woman,Heterosexual,Non-white,No,Graduate,Remote,Junior,Private,Big
+#P207,Southeast,Woman,Heterosexual,White,No,Graduate,Hybrid,Junior,Private,Big
+#P208,Certer-West,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Small
+#P209,Southeast,Man,LGBTQ+,Non-white,No,Graduate,Remote,Senior,Private,Big
+#P210,South,Man,Heterosexual,White,No,Graduate,Hybrid,Mid-level,Private,Big
+#P211,Southeast,Man,LGBTQ+,White,No,Graduate,Remote,Mid-level,Private,Small
+#P212,Certer-West,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Small
+#P213,Northeast,Man,Heterosexual,White,No,Undergraduate,Hybrid,Intern,Private,Small
+#P214,South,Man,Heterosexual,White,No,Undergraduate,Remote,Mid-level,Private,Small
+#P215,North,Man,LGBTQ+,White,Yes,Graduate,Remote,Mid-level,Private,Big
+#P216,South,Man,Heterosexual,White,No,Graduate,Remote,Senior,Private,Big
+#P217,South,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Big
+#P218,Southeast,Man,Heterosexual,White,No,Graduate,Hybrid,Intern,Private,Big
+#P219,Southeast,Man,Heterosexual,Non-white,No,Graduate,Hybrid,Senior,Public,Big
+#P220,Southeast,Man,Heterosexual,White,No,Graduate,Remote,Junior,Private,Small
