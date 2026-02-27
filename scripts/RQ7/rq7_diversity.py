@@ -16,57 +16,45 @@ import seaborn as sns
 import os
 
 # Create output directory if it doesn't exist
-output_dir =  'results\RQ7' #'../../results/RQ7'
+output_dir =  f'../../results/RQ7' 
 if not os.path.exists(output_dir):
     os.makedirs(output_dir)
 
 """## import dataframe"""
 
-df = pd.read_csv('data\q28_q29.csv')
+df = pd.read_csv(f'../../data/q28_q29.csv')
 
 
 """##  Distribution of “Yes” and “No” responses to Question 28
 
 """
 
-print(df['28'].value_counts())
-
-#220 = 100
-# 142 = x
-
-print(142*100/220)
-
-print(78*100/220)
-
-# yes + no
-
-print(64.5 + 35.4)
 
 # Distribution of “Yes” and “No” responses to Question 28 by gender.
 
 df_gender = df[df["Gender"] != "Others/I don't know"]
 sns.countplot(data=df_gender, x='28', stat="percent", hue= "Gender")
 plt.savefig(f'{output_dir}/bar_q28_gen.png', dpi=300, bbox_inches='tight')
-plt.show()
+
 
 # Distribution of “Yes” and “No” responses to Question 28 by Sexuality
 df_sexuality = df[df["Sexuality"] != "Others/I don't know"]
 sns.countplot(data=df_sexuality, x='28', stat="percent", hue= "Sexuality")
 plt.savefig(f'{output_dir}/bar_q28_se.png', bbox_inches="tight")
-plt.show()
+
 
 # Distribution of “Yes” and “No” responses to Question 28 by Race
 df_race = df[df["Race"] != "Others/I don't know"]
 sns.countplot(data=df_race, x='28', stat="percent", hue= "Race")
 plt.savefig(f'{output_dir}/bar_q28_race.png', bbox_inches="tight")
-plt.show()
+
 
 #  Distribution of “Yes” and “No” responses to Question 28 by Disabled
 df_disabled = df[df["Disabled"] != "Others/I don't know"]
 sns.countplot(data=df_disabled, x='28', stat="percent", hue= "Disabled")
 plt.savefig(f'{output_dir}/bar_q28_dis.png', dpi=300, bbox_inches='tight')
 
-plt.show()
+
 
 """## Responses to Question 29
 
@@ -92,23 +80,7 @@ df['discourse_strategy'] = df.apply(discourse_strategy, axis=1)
 
 df1 = df[(df['28'] == 'yes')&(df['29'] != 'none')]
 
-# distribution to Question 29:
-#19 records classified as “none”
-# 59 records containing descriptions of facts.
-print(19+59)
 
-# Responses that answered “Yes” to Question 28 and reported facts in Question 29.
-# 220 = 100
-# 59 = x
-print(59*100/220)
-
-# Responses that answered “Yes” to Question 28 but provided no report in Question 29.
-#220 = 100
-#19 = x
-print(19*100/220)
-
-# The percentages were verified and are correct (approximately 35.4% or 35.5%).
-print(26.8+8.6)
 
 """### distribution discourse strategy Q28 and Q29
 
@@ -117,7 +89,7 @@ print(26.8+8.6)
 
 sns.countplot(data=df, x='28', stat="percent", hue= "discourse_strategy")
 plt.savefig(f'{output_dir}/bar_discourse.png', bbox_inches="tight")
-plt.show()
+
 
 """###  Heatmap discourse by group"""
 
@@ -236,8 +208,8 @@ plt.ylabel("Percentage (%)")
 plt.xticks(rotation=45, ha="right")
 plt.title("Distribution of Discrimination Categories")
 plt.tight_layout()
-plt.savefig("barplot_cat.png", bbox_inches="tight")
-plt.show()
+plt.savefig(f'{output_dir}barplot_cat.png', bbox_inches="tight")
+
 
 """
 ### Heatmap category by group
@@ -308,6 +280,8 @@ plt.tight_layout()
 plt.savefig(f'{output_dir}/heatmap29_cat.png', bbox_inches="tight")
 plt.show()
 
+
+
 """### Userplot Category"""
 
 from upsetplot import from_memberships, UpSet
@@ -348,4 +322,3 @@ plt.show()
 # to verify userplot
 from collections import Counter
 
-print(Counter(tuple(sorted(x)) for x in memberships).most_common(10))
