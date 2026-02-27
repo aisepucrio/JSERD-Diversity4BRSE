@@ -21,7 +21,7 @@ This study investigates perceived inclusion and discrimination by Brazilian tech
   - `/RQ4`: Team and leadership level analysis scripts
   - `/RQ5`: Diversity and inclusion definitions and word cloud scripts
   - `/RQ6`: Discrimination and prejudice definitions and word cloud scripts
-  - `/RQ7`: Additional analysis scripts
+  - `/RQ7`: Recognize, Narrate and Silence
   - `requirements.txt`: Required Python libraries
 - `/survey`: The survey questionnaire used in the study and the ICF. Available versions: Portuguese and English.
 - `/results`: Analysis results organized by research question:
@@ -32,14 +32,14 @@ This study investigates perceived inclusion and discrimination by Brazilian tech
   - `/RQ4`: Analysis at team and leadership levels
   - `/RQ5`: Diversity and inclusion definitions and word clouds
   - `/RQ6`: Discrimination and prejudice definitions and word clouds
-  - `/RQ7`: Additional analyses
+  - `/RQ7`: Recognize, Narrate and Silence
   - `/papers`: Full paper in PDF version
 
 ## Reproducing the Study
 
 ### Prerequisites
 
-- [Python 3.8+](https://www.python.org/downloads/)
+- [Python 3.11](https://www.python.org/downloads/)
 - [Git](https://git-scm.com)
 
 ### Setup Instructions
@@ -87,6 +87,7 @@ This study investigates perceived inclusion and discrimination by Brazilian tech
    - `--rq4` - Diversity perception at team and leadership levels
    - `--rq5` - Diversity and inclusion definitions and word clouds
    - `--rq6` - Discrimination and prejudice definitions and word clouds
+   - `--rq6` - Recognize, Narrate and Silence
    - `--quiet` - Minimize output (show only summary)
 
    **Option B: Individual Script Execution**
@@ -107,6 +108,7 @@ This study investigates perceived inclusion and discrimination by Brazilian tech
    python scripts/RQ5/diversitycloud.py
    python scripts/RQ6/coding_discrimination_prejudice.py
    python scripts/RQ6/discriminationcloud.py
+   python scripts/RQ7/rq7_diversity.py
    ```
 
 ## Contributing
