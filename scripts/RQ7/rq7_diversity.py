@@ -325,20 +325,23 @@ up = UpSet(
     upset_data,
     subset_size="count",
     show_counts=True,
+    facecolor="tab:blue",
     sort_by="cardinality"
 )
 
 up.plot()
 
 
-plt.gcf().suptitle(
+fig = plt.gcf()
+
+fig.suptitle(
     "Intersections Between Report Categories",
     fontsize=14,
     fontweight="bold",
-    y=1.02
+    y=0.98   # 🔑 controla a altura do título
 )
 
-plt.tight_layout(rect=[0, 0, 1, 0.95])
+plt.tight_layout(rect=[0, 0, 1, 0.95]) 
 plt.savefig(f'{output_dir}/useplot_cat2.png', bbox_inches="tight")
 plt.show()
 
