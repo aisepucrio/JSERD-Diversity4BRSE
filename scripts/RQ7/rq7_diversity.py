@@ -208,7 +208,7 @@ plt.ylabel("Percentage (%)")
 plt.xticks(rotation=45, ha="right")
 plt.title("Distribution of Discrimination Categories")
 plt.tight_layout()
-plt.savefig(f'{output_dir}barplot_cat.png', bbox_inches="tight")
+plt.savefig(f'{output_dir}/barplot_cat.png', bbox_inches="tight")
 
 
 """
