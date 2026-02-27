@@ -28,6 +28,9 @@ SCRIPTS = {
     'rq6': [
         'RQ6/coding_discrimination_prejudice.py',
         'RQ6/discriminationcloud.py'
+    ],
+    'rq7': [
+        'RQ7/rq7_diversity.py'
     ]
 }
 
@@ -107,6 +110,8 @@ Examples:
                         help='Run RQ5 (diversity & inclusion definitions) scripts')
     parser.add_argument('--rq6', action='store_true',
                         help='Run RQ6 (discrimination & prejudice definitions) scripts')
+    parser.add_argument('--rq7', action='store_true',
+                        help='Run RQ7 (Recognize, Narrate and Silence) scripts')
     parser.add_argument('--quiet', '-q', action='store_true',
                         help='Minimize output (only show summary)')
     
@@ -122,7 +127,7 @@ Examples:
     
     if args.all:
         # Run all scripts in order
-        for category in ['characterization', 'rq1', 'rq2', 'rq3', 'rq4', 'rq5', 'rq6']:
+        for category in ['characterization', 'rq1', 'rq2', 'rq3', 'rq4', 'rq5', 'rq6','rq7']:
             scripts_to_run.extend(SCRIPTS[category])
     else:
         # Run selected scripts
@@ -140,6 +145,8 @@ Examples:
             scripts_to_run.extend(SCRIPTS['rq5'])
         if args.rq6:
             scripts_to_run.extend(SCRIPTS['rq6'])
+        if args.rq7:
+            scripts_to_run.extend(SCRIPTS['rq7'])
     
     if not scripts_to_run:
         print("⚠️  No scripts selected. Use --help to see available options.")

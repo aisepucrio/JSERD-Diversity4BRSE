@@ -1,4 +1,6 @@
-pandas
-matplotlib
+pandas<2.0
+numpy>=1.23
+matplotlib==3.7.3
 seaborn
-numpy
+upsetplot==0.9.0
+wordcloud
