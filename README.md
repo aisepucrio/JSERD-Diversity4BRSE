@@ -90,7 +90,7 @@ python scripts/RQ2/coding_discrimination_prejudice.py
 python scripts/RQ2/discriminationcloud.py
 python scripts/RQ3/profile.py
 python scripts/RQ4/company.py
-python scripts/RQ5/rq7_diversity.py
+python scripts/RQ5/intersection.py
 python scripts/RQ6/teams.py
 python scripts/RQ6/leaders.py
 python scripts/RQ7/coding_bias.py
