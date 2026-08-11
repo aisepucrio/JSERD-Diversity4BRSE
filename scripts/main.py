@@ -9,28 +9,28 @@ SCRIPTS = {
         'participant_characterization/characterization.py'
     ],
     'rq1': [
-        'RQ1/coding_bias.py'
+        'RQ1/coding_inclusion_diversity.py',
+        'RQ1/diversitycloud.py'
     ],
     'rq2': [
-        'RQ2/profile.py'
+        'RQ2/coding_discrimination_prejudice.py',
+        'RQ2/discriminationcloud.py'
     ],
     'rq3': [
-        'RQ3/company.py'
+        'RQ3/profile.py'
     ],
     'rq4': [
-        'RQ4/leaders.py',
-        'RQ4/teams.py'
+        'RQ4/company.py'
     ],
     'rq5': [
-        'RQ5/coding_inclusion_diversity.py',
-        'RQ5/diversitycloud.py'
+        'RQ5/intersection.py'
     ],
     'rq6': [
-        'RQ6/coding_discrimination_prejudice.py',
-        'RQ6/discriminationcloud.py'
+        'RQ6/teams.py',
+        'RQ6/leaders.py'
     ],
     'rq7': [
-        'RQ7/rq7_diversity.py'
+        'RQ7/coding_bias.py'
     ]
 }
 
