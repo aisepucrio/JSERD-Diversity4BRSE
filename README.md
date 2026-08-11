@@ -1,124 +1,112 @@
-# Diversity Matters: Perceived Inclusion and Discrimination by Brazilian Tech Professionals
-
-This repository contains all the codes, data, ICFs and resources used in the study.
+# Diversity, Equity, and Inclusion in Software Engineering: Perceptions from Professionals in Brazil
 
 [![DOI](https://zenodo.org/badge/1167492051.svg)](https://doi.org/10.5281/zenodo.21850292)
 
-Access the full paper [here](results/Diversity4SEBR.pdf)
+This repository contains the data, analysis scripts, questionnaires, and replication materials for the study on perceived inclusion, discrimination, and unconscious bias among Brazilian tech professionals.
 
-## Abstract
+📄 **[Read the Full Paper (PDF)](results/JSERD-Diversity4SEBR.pdf)** | 🔗 **[Zenodo Artifact](https://doi.org/10.5281/zenodo.21850292)**
 
-This study investigates perceived inclusion and discrimination by Brazilian tech professionals. Through a survey of 220 participants across Brazil, placed on Google Forms, we examine the challenges faced by underrepresented groups, the strategies companies employ, and the gaps in current practices.
+---
+
+## Overview
+
+Through a nationwide survey of 220 tech professionals in Brazil, this study investigates workplace inequities across intersecting demographic identities and organizational settings. We examine how practitioners conceptualize diversity and inclusion, how discrimination is experienced or silenced, and the persistent gaps between team-level representation and leadership advancement.
+
+---
 
 ## Repository Structure
 
-- `/data`: Contains raw and processed data collected from the survey.
-- `/scripts`: Analysis scripts organized by research question:
-  - `/participant_characterization`: Demographic characterization scripts
-  - `/RQ1`: Bias recognition analysis scripts
-  - `/RQ2`: Demographic profile analysis scripts
-  - `/RQ3`: Company characteristics analysis scripts
-  - `/RQ4`: Team and leadership level analysis scripts
-  - `/RQ5`: Diversity and inclusion definitions and word cloud scripts
-  - `/RQ6`: Discrimination and prejudice definitions and word cloud scripts
-  - `/RQ7`: Recognize, Narrate and Silence
-  - `requirements.txt`: Required Python libraries
-- `/survey`: The survey questionnaire used in the study and the ICF. Available versions: Portuguese and English.
-- `/results`: Analysis results organized by research question:
-  - `/participant_characterization`: Full characterization of survey respondents
-  - `/RQ1`: Analysis of bias recognition
-  - `/RQ2`: Analysis by demographic profile
-  - `/RQ3`: Analysis by company characteristics
-  - `/RQ4`: Analysis at team and leadership levels
-  - `/RQ5`: Diversity and inclusion definitions and word clouds
-  - `/RQ6`: Discrimination and prejudice definitions and word clouds
-  - `/RQ7`: Recognize, Narrate and Silence
-  - `/papers`: Full paper in PDF version
+The project is organized by Research Question (**RQ1-RQ7**) as presented in the paper:
+
+```text
+├── data/                             # Raw and anonymized survey datasets
+├── survey/                           # Questionnaire & Informed Consent Forms (PT/EN)
+├── scripts/
+│   ├── main.py                       # CLI Orchestrator to execute analyses
+│   ├── participant_characterization/ # Demographic & professional profiling
+│   ├── RQ1/                          # Diversity & Inclusion definitions
+│   ├── RQ2/                          # Prejudice & Discrimination definitions
+│   ├── RQ3/                          # Fairness perceptions by demographic profile
+│   ├── RQ4/                          # Fairness perceptions by organizational setting
+│   ├── RQ5/                          # Recognize, Narrate, and Silence analysis
+│   ├── RQ6/                          # Inclusion in development teams vs. leadership
+│   └── RQ7/                          # Unconscious bias awareness analysis
+└── results/                          # Generated figures, tables, and the full paper in PDF
+```
+
+---
 
 ## Reproducing the Study
 
-### Prerequisites
+### 1. Prerequisites & Setup
 
-- [Python 3.11](https://www.python.org/downloads/)
-- [Git](https://git-scm.com)
+Ensure you have **Python 3.11+** and **Git** installed.
 
-### Setup Instructions
+```bash
+git clone [https://github.com/aisepucrio/JSERD-Diversity4BRSE.git](https://github.com/aisepucrio/JSERD-Diversity4BRSE.git)
+cd JSERD-Diversity4BRSE
+pip install -r scripts/requirements.txt
+```
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/aisepucrio/Diversity4BRSE.git
-   cd Diversity4BRSE
-   ```
+### 2. Execution Methods
 
-2. **Install dependencies**
-   ```bash
-   pip install -r scripts/requirements.txt
-   ```
+You can run the full analytical pipeline via the main orchestrator or execute specific modules individually.
 
-3. **Run the analysis scripts**
+#### Option A: CLI Orchestrator (Recommended)
 
-   **Option A: Batch Execution (Recommended)**
-   
-   Use the main orchestrator script to run multiple analyses at once:
-   
-   ```bash
-   # Run all analyses
-   python scripts/main.py --all
-   
-   # Run specific research questions
-   python scripts/main.py --rq1 --rq2 --rq3
-   
-   # Run characterization and specific RQs
-   python scripts/main.py --characterization --rq4 --rq5
-   
-   # Run with minimal output
-   python scripts/main.py --all --quiet
-   
-   # See all available options
-   python scripts/main.py --help
-   ```
-   
-   **Available flags:**
-   - `--all` - Run all scripts
-   - `--characterization` - Participant characterization
-   - `--rq1` - Bias recognition analysis
-   - `--rq2` - Discrimination perceptions by demographic profile
-   - `--rq3` - Discrimination perceptions by company characteristics
-   - `--rq4` - Diversity perception at team and leadership levels
-   - `--rq5` - Diversity and inclusion definitions and word clouds
-   - `--rq6` - Discrimination and prejudice definitions and word clouds
-   - `--rq6` - Recognize, Narrate and Silence
-   - `--quiet` - Minimize output (show only summary)
+```bash
+# Run the entire pipeline (all RQs + characterization)
+python scripts/main.py --all
 
-   **Option B: Individual Script Execution**
-   
-   Run scripts individually if needed:
-   
-   ```bash
-   # Participant Characterization
-   python scripts/participant_characterization/characterization.py
-   
-   # Research Questions
-   python scripts/RQ1/coding_bias.py
-   python scripts/RQ2/profile.py
-   python scripts/RQ3/company.py
-   python scripts/RQ4/leaders.py
-   python scripts/RQ4/teams.py
-   python scripts/RQ5/coding_inclusion_diversity.py
-   python scripts/RQ5/diversitycloud.py
-   python scripts/RQ6/coding_discrimination_prejudice.py
-   python scripts/RQ6/discriminationcloud.py
-   python scripts/RQ7/rq7_diversity.py
-   ```
+# Run specific modules only
+python scripts/main.py --characterization --rq1 --rq2
+
+# Run all with compact summary output
+python scripts/main.py --all --quiet
+```
+
+**Available CLI Flags:**
+* `--all`: Execute all scripts
+* `--characterization`: Participant demographic profiling
+* `--rq1`: Diversity and inclusion definitions & word clouds
+* `--rq2`: Prejudice and discrimination definitions & word clouds
+* `--rq3`: Equity perceptions by demographic profile
+* `--rq4`: Equity perceptions by company size, sector, and work model
+* `--rq5`: Workplace discrimination: Recognize, Narrate, and Silence
+* `--rq6`: Representation in development teams vs. leadership roles
+* `--rq7`: Self-awareness of unconscious bias
+* `--quiet`: Suppress verbose logs and show summary only
+
+#### Option B: Individual Script Execution
+
+```bash
+# Characterization
+python scripts/participant_characterization/characterization.py
+
+# Research Questions
+python scripts/RQ1/coding_inclusion_diversity.py
+python scripts/RQ1/diversitycloud.py
+python scripts/RQ2/coding_discrimination_prejudice.py
+python scripts/RQ2/discriminationcloud.py
+python scripts/RQ3/profile.py
+python scripts/RQ4/company.py
+python scripts/RQ5/rq7_diversity.py
+python scripts/RQ6/teams.py
+python scripts/RQ6/leaders.py
+python scripts/RQ7/coding_bias.py
+```
+
+---
 
 ## Contributing
 
-We welcome contributions from the community! Here's how you can help:
+We welcome community feedback and improvements:
+* 📝 **Participate in our survey**: [Português](https://forms.gle/n9wLZbP2Nd2nRhUD9) | [English](https://forms.gle/21LsnDiqJqDLoihW8)
+* 🐛 **Report Issues**: Open a GitHub issue for bugs or methodological suggestions.
+* 🔧 **Pull Requests**: Submit PRs for code optimizations or documentation improvements.
 
-- 📝 **Participate in our survey**: [Survey (PT)](https://forms.gle/n9wLZbP2Nd2nRhUD9) | [Survey (EN)](https://forms.gle/21LsnDiqJqDLoihW8)
-- 🐛 **Report issues**: Open an issue if you find bugs or have suggestions
-- 🔧 **Submit improvements**: Create a pull request with your enhancements
+---
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as permitted under the terms of this license.
+This project is licensed under the **[MIT License](LICENSE)**.
