@@ -43,7 +43,7 @@ The project is organized by Research Question (**RQ1-RQ7**) as presented in the 
 Ensure you have **Python 3.11+** and **Git** installed.
 
 ```bash
-git clone [https://github.com/aisepucrio/JSERD-Diversity4BRSE.git](https://github.com/aisepucrio/JSERD-Diversity4BRSE.git)
+git clone https://github.com/aisepucrio/JSERD-Diversity4BRSE.git
 cd JSERD-Diversity4BRSE
 pip install -r scripts/requirements.txt
 ```
